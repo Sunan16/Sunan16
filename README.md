@@ -5,6 +5,6 @@ Meu intuito é disponibilizar meus aprendizados e versionar meus arquivos para t
 [![Portfolio](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://sunan16.github.io/Javascript/Projeto/index.html)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzpOKFncwA3Kh9GNpJ5osrA)
 
-![Sunan16 GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunan16&show_icons=true&theme=radical)
+![Sunan16 GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunan16&show_icons=true&theme=dark)
 
 Estou me desafiando a cada dia aprendendo coisas bem diferentes e que eu julgo ser dificil, para ter um melhor aproveitamento futuro na minha carreira.
