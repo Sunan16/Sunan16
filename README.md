@@ -7,4 +7,4 @@ Meu intuito é disponibilizar meus aprendizados e versionar meus arquivos para t
 
 ![Sunan16 GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunan16&show_icons=true&theme=dark)
 
-Estou me desafiando a cada dia aprendendo coisas bem diferentes e que eu julgo ser dificil, para ter um melhor aproveitamento futuro na minha carreira.
+Estou desenvolvendo um projeto para um familiar meu, não é grande coisa mas é um pouco complexo. Não disponibilizo ele para o GitHub pois estou pensando em transformar ele em algo comercial um dia... Mas posso explicar mais ou menos como funciona pra interessados...
