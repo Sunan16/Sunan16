@@ -1,4 +1,4 @@
-### Olá, eu sou o Pedro Oliveira dono deste perfil chamado Sunan16.
+### Olá, eu sou o Pedro Oliveira de Farias dono deste perfil chamado Sunan16.
 Meu intuito é disponibilizar meus aprendizados e versionar meus arquivos para ter uma melhor organização e ter um melhor controle de aprendizado sobre o Git e o GitHub.
 
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_pedro_/)
