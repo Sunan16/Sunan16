@@ -5,6 +5,4 @@ Meu intuito é disponibilizar meus aprendizados e versionar meus arquivos para t
 [![Portfolio](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://sunan16.github.io/Javascript/Projeto/index.html)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzpOKFncwA3Kh9GNpJ5osrA)
 
-![Sunan16 GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunan16&show_icons=true&theme=dark)
-
 Estou desenvolvendo um projeto para um familiar meu, não é grande coisa mas é um pouco complexo. Não disponibilizo ele para o GitHub pois estou pensando em transformar ele em algo comercial um dia... Mas posso explicar mais ou menos como funciona pra interessados...
