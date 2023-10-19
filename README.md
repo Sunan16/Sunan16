@@ -2,7 +2,6 @@
 Meu intuito é disponibilizar meus aprendizados e versionar meus arquivos para ter uma melhor organização e ter um melhor controle de aprendizado sobre o Git e o GitHub.
 
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_pedro_/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzpOKFncwA3Kh9GNpJ5osrA)
 
 ![Sunan16 GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunan16&show_icons=true&theme=dark)
 
